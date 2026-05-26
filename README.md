@@ -4,9 +4,8 @@ This renders a 3D cube loosely based on the [tinyrenderer](https://haqr.eu/tinyr
 
 For more information visit the [documentation website](https://docs.tanmatsu.cloud).
 
-For more information visit the [documentation website](https://docs.tanmatsu.cloud).
-
 ## License
 
-The contents of this repository may be considered in the public domain or [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0) licensed at your disposal.
+This software is under the [MIT license](https://opensource.org/license/mit). The MIT license allows others to build upon your work without restrictions while also making sure you retain your attribution.
 
+(C) 2026 Rene Schickbauer
