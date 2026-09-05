@@ -24,9 +24,6 @@
 #include "usb_device.h"
 #include "hershey_font.h"
 
-// External ST7701 color format function (from esp32-component-mipi-dsi-abstraction)
-extern esp_err_t st7701_set_color_format(lcd_color_rgb_pixel_format_t format);
-
 // Global variables
 static size_t                       display_h_res        = 0;
 static size_t                       display_v_res        = 0;
